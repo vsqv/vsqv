@@ -3,9 +3,9 @@
     <tr>
       <td align="left">
         <ul>
-         <li>💌 Email me at <a target="_blank" href="mailto:oops">Email</a></li>
-         <li>🎮 Join me on <a target="_blank" href="https://discord.com/users/1190847234108035128">Discord</a></li>
-         <li>🌐 Visit my <a target="_blank" href="https://github.com/i1lo/">Github</a></li>
+         <li>Email me at <a target="_blank" href="mailto:oops">Email</a></li>
+         <li>Join me on <a target="_blank" href="https://discord.com/users/1190847234108035128">Discord</a></li>
+         <li>Visit my <a target="_blank" href="https://github.com/i1lo/">Github</a></li>
         </ul>
       </td>
       <td align="center" width="33%">
